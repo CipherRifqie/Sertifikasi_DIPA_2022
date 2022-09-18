@@ -1,0 +1,4 @@
+#Sun Sep 18 00:29:23 ICT 2022
+base.0=D\:\\AndroidStudioProject2022\\Sertifikasi-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
